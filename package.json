@@ -4,16 +4,16 @@
     "description": "A command line logo genrator. Input the criteria and logo.now will generate a logo in .svg file format",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js",
-      "test": "jest"
+        "start": "node index.js",
+        "test": "jest"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "inquirer": "^8.2.6"
+        "inquirer": "^8.2.6"
     },
     "devDependencies": {
         "jest": "^28.1.3"
-      }
-  }
+    }
+}
