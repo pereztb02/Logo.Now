@@ -12,7 +12,7 @@ A command line app that generates simple logos in .svg file format.
 Requires Inquirer and a browser.
 
 ## Usage
-
+https://watch.screencastify.com/v/oi2TwSJviojKR9WdbZ2c
 
 
 ## Citations
