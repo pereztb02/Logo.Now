@@ -26,7 +26,7 @@ Link to SVG tutorial: https://www.w3schools.com/graphics/svg_circle.asp
 
 <p>Check out my GitHub! </p>
 
-<>
+https://github.com/pereztb02
 
 ## Licenses
 
